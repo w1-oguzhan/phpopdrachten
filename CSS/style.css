@@ -6,7 +6,6 @@
 }
 
 body{
-    /*background-color:#12B7B9;*/
     background-color: #12B7B9;
 }
 header {
@@ -21,6 +20,8 @@ hr
 aside
 {
     background-color:#10DCED;
+    height: 620px;
+    width: 15vw;
 }
 h1
 {
@@ -32,13 +33,37 @@ h2
 {
     color: #3F12B2;
     font-size: 30px;
+    /*position: relative;*/
+    /*left: 20px;*/
+    /*width: 600px;*/
 }
 h3
 {
     color: black;
     font-size: 24px;
+    position: relative;
+    left: 20px;
+    width: 600px;
+    margin-bottom: 4px;
+}
+ul{
+    position: relative;
+    left: 50px;
+    width: 500px;
+    margin-bottom: 20px;
 }
 a{
     color: black;
     font-size: 20px;
+
 }
+#wrapper{
+    position: absolute;
+    top: 52px;
+    left: 250px;
+    width: 1260px;
+}
+/*#out{*/
+/*    position: relative;*/
+/*    left: 0px;*/
+/*}*/
