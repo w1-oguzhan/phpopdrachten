@@ -63,7 +63,8 @@ a{
     left: 250px;
     width: 1260px;
 }
-/*#out{*/
-/*    position: relative;*/
-/*    left: 0px;*/
-/*}*/
+
+#Start{
+    position: absolute;
+    left: 20px;
+}
