@@ -24,7 +24,7 @@
             echo "<p>" . $text1 . $text11 . $text4 . $text5 . $text15 . $text2 . $text10 . $text12 . "</p>";
             echo "<p>" . $text7 . $text10 . $text8 . $text15 . $text9 . $text12 . "</p>";
             echo "<p>" . $text6 . $text5 . $text3 . $text13 . $text10 . "</p>";
-            echo $text12
+            echo $text12;
         ?>
         <?php
             echo "<p>" . $text1 . $text11 . $text12 . "</p>";
